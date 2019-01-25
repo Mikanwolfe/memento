@@ -1,4 +1,4 @@
-# Project Memento
+![Project Memento](https://cdn.discordapp.com/attachments/495467426595602433/538179334935150624/Untitled-1.png "Memento")
 
 Memento will be the project name for a series of games written by Mikan (Mikanwolfe), Dondarion, and B1_347.
 We wanted to learn something in our spare time and after some discussion we thought this would be interesting.
