@@ -4,3 +4,5 @@ Memento (stylised memento) is a small project between 2.1 friends to see if they
 We wanted to learn something in our spare time and after some discussion we thought this would be interesting.
 
 This readme will be updated... slowly.
+
+I HATH NOW CHANGED THE FILE XD
