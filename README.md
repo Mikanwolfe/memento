@@ -3,6 +3,11 @@
 Memento (stylised memento) is a small project between 2.1 friends to see if they can learn something new.
 We wanted to learn something in our spare time and after some discussion we thought this would be interesting.
 
-This readme will be updated... slowly.
+Things we can iron out slowly:
 
-I HATH NOW CHANGED THE FILE XD
+* Using github
+* Version Control
+
+
+
+Github repositories should also encompass one game/subproject of memento each. We should include the links here and an explanation of the philosophy once we get around to agreeing on it.
