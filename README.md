@@ -1,4 +1,4 @@
-# Project Memento
+# Memento
 
 
 
@@ -8,9 +8,18 @@ This site is currently a work in progress, so bear with us while it's being buil
 
 ---
 
+## Current Projects
 
+* Number 1
+* Coffee Box
+* Number 3
+* Etc.
 
+---
 
+> Memento is open-source!
+
+All of the projects created under *Memento* will be under the MIT license. More information to come.
 
 ## Team
 
