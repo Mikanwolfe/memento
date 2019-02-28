@@ -8,6 +8,8 @@ This site is currently a work in progress, so bear with us while it's being buil
 
 This is index.md. The link to about is [here](about.html)
 
+I'm sure the blog would be located at [memento.nekox.net/blog/entry-1](blog/entry-1.html)
+
 ---
 
 ## Current Projects
