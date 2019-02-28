@@ -6,6 +6,8 @@ Welcome to the site for Project Memento!
 
 This site is currently a work in progress, so bear with us while it's being built.
 
+This is index.md. The link to about is [here](about.html)
+
 ---
 
 ## Current Projects
@@ -38,7 +40,8 @@ All of the projects created under *Memento* will be under the MIT license. More 
 
 #### B1_347
 
-* Programmer, Writer
+* Programmer
+* Writer
 
 #### epicdtx
 
@@ -47,7 +50,8 @@ All of the projects created under *Memento* will be under the MIT license. More 
 
 #### Dondarion
 
-* Testing, Development
+* Development
+* Testing
 
 ## Contact us
 
